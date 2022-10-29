@@ -1,6 +1,5 @@
-# Exploratory Data Analytics Notes (EDA)
----
-## Steps for (EDA)
+# Steps for EDA
+
 1. Sourcing
 2. Cleaning
 3. Univariate Analysis
